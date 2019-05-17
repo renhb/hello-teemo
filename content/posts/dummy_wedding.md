@@ -1,7 +1,7 @@
 ---
 title: "记任梦柯婚礼"
 date: 2019-05-17T16:52:22+08:00
-draft: true
+draft: false
 ---
 
 ### 参加婚礼有感
