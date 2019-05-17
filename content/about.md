@@ -8,7 +8,7 @@ author = "Nick"
 
 I'm 任寒冰
 
-`AndroidDeveloper`
+`Android Developer`
 
 `Sony`
 
