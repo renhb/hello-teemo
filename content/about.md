@@ -8,12 +8,8 @@ author = "Nick"
 
 I'm 任寒冰
 
-`Android Developer`
+Android ~~Engineer~~ ~~Developer~~ Coder
 
-`Sony`
+`Sony` `Marvel` `Apple` `Nintendo`
 
-`Marvel`
-
-`Apple`
-
-`Nintendo`
+吃喝玩乐，熬夜不睡。
